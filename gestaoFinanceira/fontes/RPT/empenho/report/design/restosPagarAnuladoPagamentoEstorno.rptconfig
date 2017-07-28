@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.15" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__exercicio_186_0</property>
+            <property name="value">2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_driver_188_1</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_189_2</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_190_3</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_191_4</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__entidade_1123_5</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__data_inicial_1146_6</property>
+            <property name="value">01/01/2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__data_final_1147_7</property>
+            <property name="value">31/12/2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1148_8</property>
+            <property name="value">cod_orgao_1148</property>
+        </structure>
+        <structure>
+            <property name="name">cod_orgao_1148_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1149_9</property>
+            <property name="value">cod_unidade_1149</property>
+        </structure>
+        <structure>
+            <property name="name">cod_unidade_1149_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1150_10</property>
+            <property name="value">elemento_despesa_1150</property>
+        </structure>
+        <structure>
+            <property name="name">elemento_despesa_1150_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1151_11</property>
+            <property name="value">cod_recurso_1151</property>
+        </structure>
+        <structure>
+            <property name="name">cod_recurso_1151_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1152_12</property>
+            <property name="value">cod_detalhamento_1152</property>
+        </structure>
+        <structure>
+            <property name="name">cod_detalhamento_1152_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__situacao_1154_13</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1155_14</property>
+            <property name="value">cod_credor_1155</property>
+        </structure>
+        <structure>
+            <property name="name">cod_credor_1155_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1157_15</property>
+            <property name="value">destinacao_recurso_1157</property>
+        </structure>
+        <structure>
+            <property name="name">destinacao_recurso_1157_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exercicio_resto_1216_16</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1243_17</property>
+            <property name="value">situacao_descricao_1243</property>
+        </structure>
+        <structure>
+            <property name="name">situacao_descricao_1243_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1331_18</property>
+            <property name="value">entidade_descricao_1331</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_descricao_1331_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1358_19</property>
+            <property name="value">entidade_assinatura_1358</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_assinatura_1358_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1359_20</property>
+            <property name="value">numcgm_assinatura_1359</property>
+        </structure>
+        <structure>
+            <property name="name">numcgm_assinatura_1359_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1360_21</property>
+            <property name="value">timestamp_assinatura_1360</property>
+        </structure>
+        <structure>
+            <property name="name">timestamp_assinatura_1360_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1361_22</property>
+            <property name="value">numero_assinatura_1361</property>
+        </structure>
+        <structure>
+            <property name="name">numero_assinatura_1361_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__entidade_resto_1362_23</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__incluir_assinaturas_1517_24</property>
+            <property name="value">Não</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__nome_credor_1528_25</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__orgao_descricao_1540_26</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__unidade_descricao_1541_27</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_28</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">orgao_descricao_1540_29</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">orgao_descricao_1540_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_186_30</property>
+            <property name="value">2008</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_186_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">incluir_assinaturas_1517_31</property>
+            <property name="value">Não</property>
+        </structure>
+        <structure>
+            <property name="name">incluir_assinaturas_1517_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">unidade_descricao_1541_32</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">unidade_descricao_1541_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">data_final_1147_33</property>
+            <property name="value">31/12/2008</property>
+        </structure>
+        <structure>
+            <property name="name">data_final_1147_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_34</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">nome_credor_1528_35</property>
+            <property name="value">Null Value</property>
+        </structure>
+        <structure>
+            <property name="name">nome_credor_1528_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_36</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">data_inicial_1146_37</property>
+            <property name="value">01/01/2008</property>
+        </structure>
+        <structure>
+            <property name="name">data_inicial_1146_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_38</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_resto_1362_39</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_resto_1362_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_40</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">situacao_1154_41</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">situacao_1154_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_resto_1216_42</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_resto_1216_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+    <styles>
+        <style name="crosstab" id="2">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab-cell" id="3">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+    </styles>
+</report>

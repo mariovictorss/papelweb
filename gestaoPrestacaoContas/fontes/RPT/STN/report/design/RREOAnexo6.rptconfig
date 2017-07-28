@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.15" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__exercicio_2231_0</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__cod_entidade_2232_1</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__periodo_2233_2</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__poder_2133_3</property>
+            <property name="value">Executivo</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__nom_entidade_2134_4</property>
+            <property name="value">TurnAround</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_driver_2235_5</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_2236_6</property>
+            <property name="value">jdbc:postgresql://172.16.30.3:5432/gqs_livramento_2005_1343_gpc2</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_2237_7</property>
+            <property name="value">sw.suporte</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_2238_8</property>
+            <property name="value">suporte</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2467_9</property>
+            <property name="value">query_2467</property>
+        </structure>
+        <structure>
+            <property name="name">query_2467_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exercicio_anterior_2738_10</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__dtInicioBimestre_3317_11</property>
+            <property name="value">01/01/2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__dtFimBimestre_3318_12</property>
+            <property name="value">29/02/2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__dtInicioBimestreAnterior_3319_13</property>
+            <property name="value">01/01/2007</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__dtFimBimestreAnterior_3320_14</property>
+            <property name="value">28/02/2007</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_2237_15</property>
+            <property name="value">sw.suporte</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_2237_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_2238_16</property>
+            <property name="value">suporte</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_2238_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">dtFimBimestreAnterior_3320_17</property>
+            <property name="value">28/02/2007</property>
+        </structure>
+        <structure>
+            <property name="name">dtFimBimestreAnterior_3320_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_anterior_2738_18</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_anterior_2738_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_2134_19</property>
+            <property name="value">TurnAround</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_2134_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">cod_entidade_2232_20</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">cod_entidade_2232_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_2235_21</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_2235_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">dtInicioBimestre_3317_22</property>
+            <property name="value">01/01/2008</property>
+        </structure>
+        <structure>
+            <property name="name">dtInicioBimestre_3317_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">dtFimBimestre_3318_23</property>
+            <property name="value">29/02/2008</property>
+        </structure>
+        <structure>
+            <property name="name">dtFimBimestre_3318_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2133_24</property>
+            <property name="value">Executivo</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2133_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_2231_25</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_2231_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">periodo_2233_26</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">periodo_2233_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_2236_27</property>
+            <property name="value">jdbc:postgresql://172.16.30.3:5432/gqs_livramento_2005_1343_gpc2</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_2236_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">dtInicioBimestreAnterior_3319_28</property>
+            <property name="value">01/01/2007</property>
+        </structure>
+        <structure>
+            <property name="name">dtInicioBimestreAnterior_3319_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+    <styles>
+        <style name="crosstab-cell" id="2">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab" id="3">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+    </styles>
+</report>

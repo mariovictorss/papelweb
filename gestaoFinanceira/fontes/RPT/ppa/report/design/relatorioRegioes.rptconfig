@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.15" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__db_driver_188_0</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_189_1</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_190_2</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_191_3</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1123_4</property>
+            <property name="value">entidade_1123</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__cod_ppa_1621_5</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__desc_regiao_1622_6</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__quebra_pagina_1623_7</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_8</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">desc_regiao_1622_9</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">desc_regiao_1622_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_10</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">quebra_pagina_1623_11</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">quebra_pagina_1623_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_12</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_13</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">cod_ppa_1621_14</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">cod_ppa_1621_type_</property>
+            <property name="value">integer</property>
+        </structure>
+    </list-property>
+    <styles>
+        <style name="crosstab" id="2">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab-cell" id="3">
+            <property name="borderBottomColor">#DDDDDD</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+    </styles>
+</report>

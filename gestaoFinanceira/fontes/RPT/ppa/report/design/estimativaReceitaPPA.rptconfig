@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.17" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__db_driver_188_0</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_189_1</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_190_2</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_191_3</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_1123_4</property>
+            <property name="value">entidade_1123</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__cod_ppa_1306_5</property>
+            <property name="value">3</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__ano_inicio_1308_6</property>
+            <property name="value">2006</property>
+        </structure>
+        <structure>
+            <property name="name">ano_inicio_1308_7</property>
+            <property name="value">2006</property>
+        </structure>
+        <structure>
+            <property name="name">ano_inicio_1308_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">cod_ppa_1306_8</property>
+            <property name="value">3</property>
+        </structure>
+        <structure>
+            <property name="name">cod_ppa_1306_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_9</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_10</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_11</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_12</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.15" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__exercicio_186_0</property>
+            <property name="value">2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__exercicio_anterior_1212_1</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__entidade_1123_2</property>
+            <property name="value">4</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__nom_entidade_1149_3</property>
+            <property name="value">PREFEITURA MUNICIPAL DE SANTANA DO LIVRAMENTO</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__periodo_referencia_1167_4</property>
+            <property name="value">1º BIMESTRE DE 2008</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__bimestre_1301_5</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_driver_188_6</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_189_7</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_190_8</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_191_9</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__mes_anterior_1641_10</property>
+            <property name="value">Janeiro</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__poder_2585_11</property>
+            <property name="value">EXECUTIVO</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2692_12</property>
+            <property name="value">total_previsao_inicial_2692</property>
+        </structure>
+        <structure>
+            <property name="name">total_previsao_inicial_2692_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2693_13</property>
+            <property name="value">total_previsao_atualizada_2693</property>
+        </structure>
+        <structure>
+            <property name="name">total_previsao_atualizada_2693_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2697_14</property>
+            <property name="value">total_no_bimestre_2697</property>
+        </structure>
+        <structure>
+            <property name="name">total_no_bimestre_2697_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2698_15</property>
+            <property name="value">total_ate_bimestre_2698</property>
+        </structure>
+        <structure>
+            <property name="name">total_ate_bimestre_2698_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2699_16</property>
+            <property name="value">total_ate_bimestre_anterior_2699</property>
+        </structure>
+        <structure>
+            <property name="name">total_ate_bimestre_anterior_2699_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_1149_17</property>
+            <property name="value">Prefeitura Municipal de Santana do Livramento</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_1149_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_18</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">periodo_referencia_1167_19</property>
+            <property name="value">1º BIMESTRE DE 2008</property>
+        </structure>
+        <structure>
+            <property name="name">periodo_referencia_1167_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2585_20</property>
+            <property name="value">EXECUTIVO</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2585_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">bimestre_1301_21</property>
+            <property name="value">2</property>
+        </structure>
+        <structure>
+            <property name="name">bimestre_1301_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_22</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_23</property>
+            <property name="value">[usuario]</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_186_24</property>
+            <property name="value">2008</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_186_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">mes_anterior_1641_25</property>
+            <property name="value">Janeiro</property>
+        </structure>
+        <structure>
+            <property name="name">mes_anterior_1641_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_26</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_27</property>
+            <property name="value">4</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_anterior_1212_28</property>
+            <property name="value">2007</property>
+        </structure>
+        <structure>
+            <property name="name">exercicio_anterior_1212_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+    <styles>
+        <style name="crosstab-cell" id="2">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab" id="3">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+    </styles>
+</report>

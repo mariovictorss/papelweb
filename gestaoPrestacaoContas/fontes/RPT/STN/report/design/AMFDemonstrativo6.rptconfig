@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.15" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__entidade_1123_0</property>
+            <property name="value">4</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__nom_entidade_1149_1</property>
+            <property name="value">PREFEITURA MUNICIPAL DE SANTANA DO LIVRAMENTO</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_driver_188_2</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_conn_url_189_3</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_user_190_4</property>
+            <property name="value">girardi</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__db_password_191_5</property>
+            <property name="value">linuxx</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__poder_2585_6</property>
+            <property name="value">EXECUTIVO</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2692_7</property>
+            <property name="value">total_ano4_2692</property>
+        </structure>
+        <structure>
+            <property name="name">total_ano4_2692_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2693_8</property>
+            <property name="value">total_ano3_2693</property>
+        </structure>
+        <structure>
+            <property name="name">total_ano3_2693_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_2697_9</property>
+            <property name="value">total_ano2_2697</property>
+        </structure>
+        <structure>
+            <property name="name">total_ano2_2697_type_</property>
+            <property name="value">decimal</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__stExercicio_2825_10</property>
+            <property name="value">2010</property>
+        </structure>
+        <structure>
+            <property name="name">stExercicio_2825_11</property>
+            <property name="value">2010</property>
+        </structure>
+        <structure>
+            <property name="name">stExercicio_2825_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_1149_12</property>
+            <property name="value">Prefeitura Municipal de Santana do Livramento</property>
+        </structure>
+        <structure>
+            <property name="name">nom_entidade_1149_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_13</property>
+            <property name="value">org.postgresql.Driver</property>
+        </structure>
+        <structure>
+            <property name="name">db_driver_188_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2585_14</property>
+            <property name="value">EXECUTIVO</property>
+        </structure>
+        <structure>
+            <property name="name">poder_2585_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_15</property>
+            <property name="value">linuxx</property>
+        </structure>
+        <structure>
+            <property name="name">db_password_191_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_16</property>
+            <property name="value">girardi</property>
+        </structure>
+        <structure>
+            <property name="name">db_user_190_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_17</property>
+            <property name="value">jdbc:postgresql://[ip]:5432/[database]</property>
+        </structure>
+        <structure>
+            <property name="name">db_conn_url_189_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_18</property>
+            <property name="value">4</property>
+        </structure>
+        <structure>
+            <property name="name">entidade_1123_type_</property>
+            <property name="value">integer</property>
+        </structure>
+    </list-property>
+    <styles>
+        <style name="crosstab-cell" id="2">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+        <style name="crosstab" id="3">
+            <property name="borderBottomColor">#CCCCCC</property>
+            <property name="borderBottomStyle">solid</property>
+            <property name="borderBottomWidth">1pt</property>
+            <property name="borderLeftColor">#CCCCCC</property>
+            <property name="borderLeftStyle">solid</property>
+            <property name="borderLeftWidth">1pt</property>
+            <property name="borderRightColor">#CCCCCC</property>
+            <property name="borderRightStyle">solid</property>
+            <property name="borderRightWidth">1pt</property>
+            <property name="borderTopColor">#CCCCCC</property>
+            <property name="borderTopStyle">solid</property>
+            <property name="borderTopWidth">1pt</property>
+        </style>
+    </styles>
+</report>
